@@ -1,0 +1,16 @@
+simple planning before coding..
+---------------------------------
+
+shop will have following sites:
+-home page
+- products page with:
+	-categories page with (each of them will contain products):
+		- teas loose
+		- teas teabags
+		- hearbs loose
+		- hearbs teabags
+		- teapots
+		- mugs and accessories
+		- gift sets for beloved
+- about us page
+- contact page
